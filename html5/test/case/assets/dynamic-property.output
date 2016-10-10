@@ -1,0 +1,24 @@
+{
+  "type": "div",
+  "children": [{
+    "type": "text",
+    "attr": {
+      "value": "A: ready"
+    }
+  }, {
+    "type": "text",
+    "attr": {
+      "value": "B: ready"
+    }
+  }, {
+    "type": "text",
+    "attr": {
+      "value": "C: ready"
+    }
+  }, {
+    "type": "text",
+    "attr": {
+      "value": "D: initial"
+    }
+  }]
+}
